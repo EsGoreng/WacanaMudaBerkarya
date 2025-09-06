@@ -1,7 +1,0 @@
-Copyright (c) 2025 Wacana Muda Berkarya
-
-All Rights Reserved.
-
-Dilarang keras menyalin, memodifikasi, mendistribusikan, atau menggunakan sebagian maupun seluruh kode, desain, maupun konten proyek ini untuk tujuan apa pun tanpa izin tertulis dari pemilik.
-
-Proyek ini hanya boleh digunakan untuk keperluan pribadi dan pembelajaran, bukan untuk tujuan komersial.
